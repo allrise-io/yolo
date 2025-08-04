@@ -5,7 +5,7 @@ yolo - Golang project scaffolding
 ## install
 
 ```
-go install github.com/dodryo/yolo@latest
+go install github.com/allrise-io/yolo@latest
 ```
 Explanation: By default, `yolo` is installed in the `$GOPATH/bin` directory.
 
